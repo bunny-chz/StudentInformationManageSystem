@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include <share.h>
+#include "share.h"
 
 #define MAX 2
 #define NEXT	0
