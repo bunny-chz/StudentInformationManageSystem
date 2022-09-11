@@ -1,5 +1,5 @@
 # StudentInformationManageSystem
-C语言数据结构项目---学生信息管理系统
+Linux系统下的C语言数据结构项目---学生信息管理系统
 
 下载make即可使用，内置有一些学生老师信息文件，账号文件，
 
