@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "util.h"
+#include "util.h"//定义有ERRP，容错输出函数
 
 #define MAX 2
 #define NEXT	0
