@@ -1,3 +1,11 @@
+/*************************************************
+ File name: util.h
+ Author: Bunny 		Github: https://github.com/bunny-chz/
+ Version: 1.0  
+ Date: 2022-08-05
+ Description: 用于学生信息管理系统中容错输出
+*************************************************/
+
 #ifndef __UTIL_H__
 #define __UTIL_H__
 
