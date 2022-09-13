@@ -1,9 +1,14 @@
+/*************************************************
+ File name: sims.h
+ Author: Bunny 		Github: https://github.com/bunny-chz/
+ Version: 1.0  
+ Date: 2022-08-05
+ Description: SIMS  Student Information Manage System    ||  学生信息管理系统
+*************************************************/
+
 #ifndef __SIMS_H__
 #define __SIMS_H__
 
-/* @sims.h
- SIMS  Student Information Manage System    ||  学生信息管理系统
- @date 2022-08-05*/
 
 #include <stdio.h>
 #include <string.h>
