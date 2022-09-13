@@ -1,11 +1,18 @@
 #include "sims.h"
 
-/* @fun.c
- SIMS  Student Information Manage System   ||  学生信息管理系统
- @date 2022-08-05*/
+/**
+* @file fun.c
+* @brief 学生信息管理系统函数实现
+* @version 1.0
+* @author Bunny		Github: https://github.com/bunny-chz/
+* @date 2022-08-05
+*/
 
-int tmp_id;//学号全局变量
-int tmp_class = 19001;//老师班级全局变量
+
+/**学号全局变量*/
+int tmp_id;
+/**老师班级全局变量*/
+int tmp_class = 19001;
 
 //字符串比较函数(账号)
 int cmp_account(const void *d1, const void *d2)
