@@ -3,7 +3,8 @@ Linux系统下的C语言数据结构项目---学生信息管理系统
 
 抖音视频演示：
 
-https://v.douyin.com/rbAuLdr/
+https://v.douyin.com/rbAf4yu/
+
 
 下载make即可使用，内置有一些学生老师信息文件，账号文件，
 
